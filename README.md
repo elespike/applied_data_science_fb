@@ -1,11 +1,23 @@
 # Applied Data Science for Security Professionals
-<img src="img/GTK_Logo_Social Icon.jpg" width="200" align="left" >
+<img src="img/GTK_Logo_Social Icon.jpg" width="150" align="left" >
 
-### BlackHat 2019 Trainings (August 3rd-6th, 2019) presented by GTK Cyber
-
+### Facebook Private Virtual Trainings, Presented by GTK Cyber
 GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
 all with a focus on direct applicability to cyber security.
+
+### Course Schedule:
+The course will run for four Tuesdays starting on April 21st, 2020.
+
+* April 21st: Intoroduction to Data Science, Machine Learning, and Data Visualization
+* April 28th: Feature Engineering and Supervised Machine Learning
+* May 5th: Unsupervised Learning and Anomaly Detection
+* May 12th: Threat Hunting with Data Science, Hacking Machine Learning Models and other Advanced Use Cases
+
+### Course Materials:
+The course will be hosted on our Google Classroom which is available here: https://classroom.google.com/c/MjkwNzEwMDQ2Nzla.  You will receive an access code in your Facebook email. 
+
+As this course is virtual, the course will be delivered over Google Meeting: https://meet.google.com/lookup/agpazen6ro.
 
 ### GRIFFON Data Science Virtual Machine
 
@@ -16,9 +28,8 @@ Griffon is a environment for data science. Griffon is based on Ubuntu MATE and i
 
 ### Instructors
 
-- Charles Givre - Data Scientist:  charles.givre@gtkcyber.com
-- Austin Taylor - Cyber Security Researcher: austin.taylor@gtkcyber.com
 - Brian Genz - Senior Instructor: brian.genz@gtkcyber.com
+- Charles Givre - Data Scientist:  charles.givre@gtkcyber.com
 
 ### Lectures:
 
