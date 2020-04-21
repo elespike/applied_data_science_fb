@@ -1,7 +1,5 @@
-<img src="img/blackhat.png">
-
 # Applied Data Science for Security Professionals
-<img src="img/logo_white_bkg_small.png" width="200" align="left" >
+<img src="img/GTK_Logo_Social Icon.jpg" width="200" align="left" >
 
 ### BlackHat 2019 Trainings (August 3rd-6th, 2019) presented by GTK Cyber
 
